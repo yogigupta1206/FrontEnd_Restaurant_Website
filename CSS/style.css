@@ -34,3 +34,8 @@ address {
     padding: 10px;
     font-size: 80%;
 }
+
+.row-heading {
+    margin: 0px auto;
+    border-bottom: 1px ridge;
+}
