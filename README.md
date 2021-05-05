@@ -53,6 +53,12 @@ Another module that we install is Bootstrap Social that enables the addition of 
 ```sh
 npm install bootstrap-social@5.1.1 --save
 ```
+## NPM modules "onchange" and "parallelshell"
+It helps in watching changesment in .scss files
+First, we install two NPM packages onchange and parallelshell as follows:
+```sh
+npm install --save-dev onchange parallelshell
+```
 
 # Next, start the development server by typing the following at the prompt:
 
